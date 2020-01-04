@@ -19,7 +19,7 @@ cd currency_shop
 
 npm install
 
-npm run dev 
+npm run serve 
  
  
 ### 总结
@@ -28,14 +28,16 @@ npm run dev
 2、项目写到现在，从 登录注册到首页、购物车、下单、订单列表、个人中心 一个流程走完之后、不但对vue的理解更深一层，而且对以后掌控大型项目的时候也有非常多的帮助，做一个实际的项目才能对自己有很大的提升。
  
 ### 部分截图
-首页
-<img src="./src/images/screenshots/首页.png">
-分类页
-
-购物车
-
-订单页
-
-个人中心
-
-登录
+首页<br>
+![Image text](https://raw.githubusercontent.com/HuangGang16/currency_shop/master/src/images/screenshots/%E9%A6%96%E9%A1%B5.png)
+<br>分类页<br>
+![Image text](https://raw.githubusercontent.com/HuangGang16/currency_shop/master/src/images/screenshots/%E5%88%86%E7%B1%BB.png)
+<br>购物车<br>
+![Image text](https://raw.githubusercontent.com/HuangGang16/currency_shop/master/src/images/screenshots/%E8%B4%AD%E7%89%A9%E8%BD%A6.png)
+<br>订单页<br>
+![Image text](https://raw.githubusercontent.com/HuangGang16/currency_shop/master/src/images/screenshots/%E8%AE%A2%E5%8D%95%E7%AE%A1%E7%90%86.png)
+<br>个人中心<br>
+![Image text](https://raw.githubusercontent.com/HuangGang16/currency_shop/master/src/images/screenshots/%E4%B8%AA%E4%BA%BA%E4%B8%AD%E5%BF%83.png)
+<br>登录<br>
+![Image text](https://raw.githubusercontent.com/HuangGang16/currency_shop/master/src/images/screenshots/%E7%99%BB%E5%BD%95%E6%A8%A1%E5%BC%8F.png)
+![Image text](https://raw.githubusercontent.com/HuangGang16/currency_shop/master/src/images/screenshots/%E6%89%8B%E6%9C%BA%E7%99%BB%E5%BD%95.png)
