@@ -28,7 +28,7 @@
                 color="#75a342"
                 style="position: absolute;left:50%;top: 40%;transform: translate(-50%)"
         >
-            小撩正在拼命加载中…
+            小帅正在拼命加载中…
         </van-loading>
     </div>
 </template>
